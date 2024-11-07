@@ -1,0 +1,48 @@
+1 - Ana menünün sağındaki paneli iyileştir.
+	
+	a. Kaç tane lokasyon var göster.
+	b. Kullanıcılardan lokasyon alma işini hallet.
+
+2 - Oyun modu seçme sayfasını iyileştir.
+	
+	a. Kategorilerin arkasına resim ekle ve resimlerin üstüne mod hakkında ufak bilgilendirme yaz.
+	b. Süre seçme yerindeki tasarımı iyileştir.
+	c. Oyunu başlat butonunu iyileştir.
+
+3 - Oyun başlatma gerisayım ekranını iyileştir.
+	
+	a. Tüyolar eklenebilir.
+	b. Oyun ayarları hakkında bilgiler eklenebilir.
+
+4 - Oyun içi arayüzü iyileştir.
+	
+	a. Tahmin butonuna spacebar svg'si ekle.
+	b. Gerisayım komponentine kronometre svgsi ekle.
+	c. Tahmin ve gerçek ikonlarının anchor'larını düzelt.
+	d. Tahmin ve gerçek ikonlarının response time'ını düşür.
+
+5 - El sonu çıkan bilgilendirme ekranını iyileştir.
+
+	a. Sayılara animasyon ekle.
+	b. Sonraki butonuna spacebar svg'si ekle.
+	c. Bitir butonuna spacebar svg'si ekle.
+	d. Uzaklık birimini açıklayıcı hale getir.
+
+6 - Yeni el başlangıç gerisayım ekranını iyileştir.
+
+	a. Oyun başlangıç ekranından ayırt edilebilir olmalı.
+
+7 - Sonuç ekranını iyileştir.
+
+	a. Toplam skor componentini animasyonlu yap.
+	b. Harita üstündeki tahminlerin bir yerine ufak bir hangi roundda yapıldığıbı gösteren bir işaret eklenebilir.
+
+8 - Responsive yap.
+
+9 - Auth.js ekle.
+	
+	a. Leaderboard için kullan.
+	b. Casual ve Time Trial için leaderboard oluştur.
+
+10 - Oyunun ortasında çıkınca odayı sıfırla.
+	

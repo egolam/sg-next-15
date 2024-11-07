@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaflet-container {
+  background: #4c7179 !important;
+}
+
+.leaflet-top,
+.leaflet-control {
+  position: absolute !important;
+  bottom: 0.5rem !important;
+}
+
+.leaflet-left {
+  left: 0.75rem !important;
+}
