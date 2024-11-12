@@ -5,7 +5,6 @@ import Bg from "../components/Bg";
 const rajd = Rajdhani({
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
-  preload: false,
 });
 
 export const metadata = {

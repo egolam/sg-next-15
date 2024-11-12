@@ -4,6 +4,8 @@
 
 .leaflet-container {
   background: #4c7179 !important;
+  cursor: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmMmM0MDAiIHN0cm9rZS13aWR0aD0iMi41NzE0Mjg1NzE0Mjg1NzE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNpcmNsZS1wbHVzIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik04IDEyaDgiLz48cGF0aCBkPSJNMTIgOHY4Ii8+PC9zdmc+")
+  14 14,  auto !important;
 }
 
 .leaflet-top,
@@ -14,4 +16,8 @@
 
 .leaflet-left {
   left: 0.75rem !important;
+}
+
+.leaflet-clickable {
+  cursor: crosshair !important;
 }

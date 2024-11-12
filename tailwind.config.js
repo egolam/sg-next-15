@@ -13,6 +13,7 @@ module.exports = {
         "ficsit-secondary": "#5F668C",
         "bg-main": "#111416",
         "play-btn-green": "#00DD00",
+        "map-bg" : "#4c7179"
       },
     },
   },

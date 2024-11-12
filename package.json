@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@adamscybot/react-leaflet-component-marker": "^2.0.1",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
     "lucide-react": "^0.454.0",
     "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "react-leaflet": "^5.0.0-rc.1",
     "sharp": "^0.33.5",
     "zustand": "^5.0.1"
   },

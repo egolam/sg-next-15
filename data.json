@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "author": "admin",
+    "pov": 90,
+    "x": -555,
+    "y": 2498,
+    "imgSrc": "/locationImages/0.webp"
+  },
+  {
+    "id": 1,
+    "author": "admin",
+    "pov": 90,
+    "x": -293,
+    "y": 2457,
+    "imgSrc": "/locationImages/1.webp"
+  },
+  {
+    "id": 2,
+    "author": "admin",
+    "pov": 50,
+    "x": 61,
+    "y": 2547,
+    "imgSrc": "/locationImages/2.webp"
+  },
+  {
+    "id": 3,
+    "author": "admin",
+    "pov": 90,
+    "x": -85,
+    "y": 2294,
+    "imgSrc": "/locationImages/3.webp"
+  },
+  {
+    "id": 4,
+    "author": "admin",
+    "pov": 90,
+    "x": -332,
+    "y": 1988,
+    "imgSrc": "/locationImages/4.webp"
+  },
+  {
+    "id": 5,
+    "author": "admin",
+    "pov": 20,
+    "x": -706,
+    "y": 2941,
+    "imgSrc": "/locationImages/5.webp"
+  },
+  {
+    "id": 6,
+    "author": "admin",
+    "pov": 90,
+    "x": -1086,
+    "y": 2486,
+    "imgSrc": "/locationImages/6.webp"
+  },
+  {
+    "id": 7,
+    "author": "admin",
+    "pov": 90,
+    "x": -1311,
+    "y": 2274,
+    "imgSrc": "/locationImages/7.webp"
+  },
+  {
+    "id": 8,
+    "author": "admin",
+    "pov": 60,
+    "x": -1311,
+    "y": 2274,
+    "imgSrc": "/locationImages/8.webp"
+  },
+  {
+    "id": 9,
+    "author": "admin",
+    "pov": 90,
+    "x": -1087,
+    "y": 2139,
+    "imgSrc": "/locationImages/9.webp"
+  }
+]
