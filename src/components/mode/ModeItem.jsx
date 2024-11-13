@@ -24,6 +24,7 @@ const ModeItem = ({ string, display, bgURL, index, id }) => {
         className="brightness-95"
         width={1080}
         height={1080}
+        unoptimized
       />
       <div className="absolute bottom-0 w-full flex flex-col">
         <span

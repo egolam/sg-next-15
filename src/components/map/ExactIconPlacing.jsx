@@ -1,7 +1,6 @@
 import { transform } from "@/helper/transform";
-import { Marker } from "@adamscybot/react-leaflet-component-marker";
 import { useState } from "react";
-import { useMapEvents } from "react-leaflet";
+import { useMapEvents, Marker } from "react-leaflet";
 
 const ExactIconPlacing = () => {
   const [position, setPosition] = useState(null);
