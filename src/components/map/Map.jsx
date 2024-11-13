@@ -39,7 +39,7 @@ export default function Map() {
         maxNativeZoom={4}
         tileSize={TILE_SIZE}
         url="/map/{z}/{y}/{x}.png"
-        keepBuffer={64 }
+        keepBuffer={64}
       />
       <ExactIconPlacing />
     </MapContainer>
