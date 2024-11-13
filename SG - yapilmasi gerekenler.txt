@@ -45,7 +45,3 @@
 	b. Casual ve Time Trial için leaderboard oluştur.
 
 10 - Oyunun ortasında çıkınca odayı sıfırla.
-	
-[[kv_namespaces]]
-binding = "sg_kv"
-id = "b3e6ce05a8b5450aac82410a6536b9ef"
