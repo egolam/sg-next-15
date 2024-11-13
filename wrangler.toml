@@ -1,0 +1,9 @@
+main = ".worker-next/index.mjs"
+name = "my-app"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+assets = { directory = ".worker-next/assets", binding = "ASSETS" }
+
+[[kv_namespaces]]
+binding = "sg_kv"
+id = "b3e6ce05a8b5450aac82410a6536b9ef
